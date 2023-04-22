@@ -1,0 +1,14 @@
+﻿  KopiecBinarny.cpp
+C:\Users\sosik\source\repos\Zadanie1StrukturyDanych\KopiecBinarny.cpp(70,22): warning C4101: 'parentIndex': unreferenced local variable
+C:\Users\sosik\source\repos\Zadanie1StrukturyDanych\KopiecBinarny.cpp(257,33): warning C4018: '>': signed/unsigned mismatch
+C:\Users\sosik\source\repos\Zadanie1StrukturyDanych\KopiecBinarny.cpp(306,33): warning C4018: '>': signed/unsigned mismatch
+  Lista.cpp
+  RedBlackTree.cpp
+  Tablica.cpp
+  Zadanie1StrukturyDanych.cpp
+C:\Users\sosik\source\repos\Zadanie1StrukturyDanych\Zadanie1StrukturyDanych.cpp(1377,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 261 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Zadanie1StrukturyDanych.vcxproj -> C:\Users\sosik\source\repos\Zadanie1StrukturyDanych\Release\Zadanie1StrukturyDanych.exe
